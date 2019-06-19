@@ -29,3 +29,6 @@ It is a simple application to count the hours with assisted geolocation. This pr
 <li>Javascript</li>
 <li>CSS3 or SCSS</li>
 
+<h1>instructions</h1>
+<li>stay with the browser open and allow the location to count the hours.</li>
+
