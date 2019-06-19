@@ -5,13 +5,13 @@ It is a simple application to count the hours with assisted geolocation. This pr
 
 <h1>Features</h1>
 
-<li>When checking in, 
-  this requests authorization to monitor the geolocation;
+<li>When you check-in;</li> 
+ <p> this requests authorization to monitor the geolocation</p>
 
-#When allowed;</li>
-the timer counts the hours and while monitoring the geolocation.
+<li>When allowed;</li>
+<p>the timer counts the hours and while monitoring the geolocation.</li>
 
-#If you quit geofence or are out of coverage, you automatically apply the checkout and if the monitoring is denied the hour count is revoked.
+<li>If you quit geofence or are out of coverage, you automatically apply the checkout and if the monitoring is denied the hour count is revoked.
 
 #on each entry and exit an object is returned on the console with this format;
 
