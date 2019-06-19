@@ -16,19 +16,22 @@ It is a simple application to count the hours with assisted geolocation. This pr
 <li>On each check-in and check-out an object is returned on the Console with this format;</li>
 
 <li>IN</li>
+<p></p>
 <p>{lat: -23.745885899999998, lng: -46.5312887, time: Wed Jun 19 2019 11:04:39 GMT-0300 (Horário Padrão de Brasília)}</p>
+<p></p>
 <li>OUT</li>
 <p>The check-out returns the time accounted for at the end.<p>
+<p></p>
 <p>{lat: -23.745885899999998, lng: -46.5312887, time: Wed Jun 19 2019 11:04:41 GMT-0300 (Horário Padrão de Brasília)} "00:00:17"</p>
 
 
 
-<h1>the following technologies</h1>
+<h1>The following technologies</h1>
 
 <li>HTML5</li>
 <li>Javascript</li>
 <li>CSS3 or SCSS</li>
 
-<h1>instructions</h1>
-<li>stay with the browser open and allow the location to count the hours.</li>
+<h1>Instructions</h1>
+<li>Keep your browser open and allow the location to count the hours.</li>
 
