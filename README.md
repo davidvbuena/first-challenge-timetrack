@@ -5,7 +5,8 @@ It is a simple application to count the hours with assisted geolocation. This pr
 
 <h1>Features</h1>
 
-<li>When checking in, this requests authorization to monitor the geolocation;
+<li>When checking in, 
+  this requests authorization to monitor the geolocation;
 
 #When allowed;</li>
 the timer counts the hours and while monitoring the geolocation.
