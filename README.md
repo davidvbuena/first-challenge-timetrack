@@ -4,7 +4,7 @@ Timetracking
 It is a simple application to count the hours with assisted geolocation. This project was designed in response to a Mywork challenge.
 
 
-##Features
+<h1>##Features</h1>
 
 #When checking in, this requests authorization to monitor the geolocation;
 
