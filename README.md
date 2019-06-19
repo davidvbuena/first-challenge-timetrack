@@ -8,8 +8,8 @@ It is a simple application to count the hours with assisted geolocation. This pr
 <li>When you check-in;</li> 
  <p> this requests authorization to monitor the geolocation.</p>
 
-<li>When allowed;</li>
-<p>the timer counts the hours and while monitoring the geolocation.</li>
+<li>When allowed, know your location;</li>
+<p>the timer count the hours and while monitoring the geolocation.</li>
 
 <li>If you quit geofence or are out of coverage, you automatically apply the checkout and if the monitoring is denied the hour count is revoked.</li>
 
