@@ -1,6 +1,4 @@
 <h1>#Timetrack</h1>
-
-<h1>Timetracking/<h1>
 <p>
 It is a simple application to count the hours with assisted geolocation. This project was designed in response to a Mywork challenge.
 </p>
