@@ -1,14 +1,15 @@
-# Timetrack
+<h1>#Timetrack</h1>
 
-Timetracking
+<h1>Timetracking/<h1>
+<p>
 It is a simple application to count the hours with assisted geolocation. This project was designed in response to a Mywork challenge.
+</p>
 
+<h1>Features</h1>
 
-<h1>##Features</h1>
+<li>When checking in, this requests authorization to monitor the geolocation;
 
-#When checking in, this requests authorization to monitor the geolocation;
-
-#When allowed;
+#When allowed;</li>
 the timer counts the hours and while monitoring the geolocation.
 
 #If you quit geofence or are out of coverage, you automatically apply the checkout and if the monitoring is denied the hour count is revoked.
